@@ -22,6 +22,7 @@ function caseStudies() {
                 height='647'
                 width='300'
                 className='w-auto h-[647px]'
+               
               />
             </div>
           </div>

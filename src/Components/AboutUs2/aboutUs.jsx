@@ -12,7 +12,10 @@ function aboutUs() {
             width='480'
             height='400'
             className='h-[400px]'
-            style={{"border-radius": "10px"}}
+            style={{
+              borderRadius: '10px',
+              boxShadow: '0 2px 10px rgba(0,0,0,0.4), 0 4px 8px rgba(0,0,0,0.2)'
+            }}
           />
         </div>
         <div className='flex-1 flex-col md:mt-0 mt-4'>
