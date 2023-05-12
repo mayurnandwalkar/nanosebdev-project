@@ -20,11 +20,10 @@ function testimonial() {
             and affirmation. They greeted me with practical suggestions and
             seriousness in the carried out projects."
           </p>
-          <p className='text-base font-medium mt-8 text-center text-[#8a9494] md:w-[50%] md:pl-[80px] md:first-letter:pr-[80px]'>
-            “The 7Code team has been a great partner to the Synergo Group. They
-            are knowledgeable, creative and they adapt easily. Highly
-            recommended.”
+          <p className='text-base font-medium mt-8 text-center text-[#8a9494] md:w-[50%] md:pl-[80px] md:first-letter::pr-[80px]'>
+            “The 7Code team has been a great partner to the Synergo Group. They are knowledgeable, creative and they adapt easily. Highly recommended.”
           </p>
+
         </div>
 
         <div className='flex w-full justify-around mt-10 '>

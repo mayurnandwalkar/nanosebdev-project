@@ -23,9 +23,9 @@ function experience() {
             </h1>
           </div>
           <div className='md:w-[40%] bg-[#f5f0fc] h-[280px] rounded-3xl  flex flex-col items-center mb-[40px]'>
-            <h1 className='text-2xl font-bold mt-10'>IoT solutions</h1>
+            <h1 className='text-2xl font-bold mt-10'>IOT solutions</h1>
             <h1 className='text-base mt-10 text-center pl-[60px] pr-[60px] font-medium'>
-              We develop iOT solutions and connect real world devices to change
+              We develop IOT solutions and connect real world devices to change
               the way consumers interract with businesses and products.
             </h1>
           </div>

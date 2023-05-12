@@ -37,7 +37,7 @@ function careers() {
                   className='text-base mt-10 text-center font-medium'
                   style={{ paddingLeft: '10px', paddingRight: '10px' }}
                 >
-                  We develop iOT solutions and connect real world devices to
+                  We develop IOT solutions and connect real world devices to
                   change the way consumers interract with businesses and
                   products.
                 </h1>

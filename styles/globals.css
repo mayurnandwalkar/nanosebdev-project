@@ -31,7 +31,7 @@ a {
 @import 'tailwindcss/utilities';
 @import '@fontsource/dm-sans';
 :root {
-  --primary-color: #4627e9;
+  --primary-color: #716ee5;
   --primary-light-color: #c0d1ff;
   --secondary-color: #cd853f;
 }

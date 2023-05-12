@@ -12,6 +12,7 @@ function aboutUs() {
             width='480'
             height='400'
             className='h-[400px]'
+            style={{"border-radius": "10px"}}
           />
         </div>
         <div className='flex-1 flex-col md:mt-0 mt-4'>
@@ -29,7 +30,7 @@ function aboutUs() {
             consistent experiences to users across all platforms.
             <br />
             <br /> Our experience goes through areas from e-commerce product, to
-            automation systems and IoT solutions.
+            automation systems and IOT solutions.
           </p>
         </div>
       </div>

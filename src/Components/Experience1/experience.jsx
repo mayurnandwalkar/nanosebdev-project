@@ -25,7 +25,7 @@ function experience() {
               every project is the
               <br /> mirror of each of us and our services.
             </p>
-            <button className='bg-secondary-color font-bold text-black rounded-3xl h-[50px] pl-[25px] pr-[25px] shadow-xl w-max whitespace-nowrap mt-[30px] mb-[80px] md:mb-[180px]'>
+            <button className='bg-secondary-color font-bold text-white rounded-3xl h-[50px] pl-[25px] pr-[25px] shadow-xl w-max whitespace-nowrap mt-[30px] mb-[80px] md:mb-[180px]'>
               Start working with us
             </button>
           </div>

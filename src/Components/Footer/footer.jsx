@@ -3,7 +3,8 @@ import { FiInstagram, FiLinkedin, FiGithub, FiFacebook } from 'react-icons/fi';
 import { FaFacebookF, FaLinkedinIn } from 'react-icons/fa';
 import { BsGithub } from 'react-icons/bs';
 import { RiInstagramFill } from 'react-icons/ri';
-
+import LogoImg from '../../../public/logo.png'
+import Image from 'next/image';
 import Link from 'next/link';
 
 function footer() {
@@ -12,7 +13,8 @@ function footer() {
       <div className=' md:w-[1024px] md:flex  md:pl-0 md:pr-0 pl-[16px] pr-[16px] justify-between items-start mt-20'>
         <div className='md:w[55%] md:flex md:flex-col'>
           <h1 className='mb-[50px] text-white text-3xl font-bold pt-10'>
-            LOGO
+            {/* LOGO */}
+            <Link href='/'><Image src={LogoImg} style={{"width": "100px"}}/></Link>
           </h1>
           <h2 className='text-white text-5xl font-bold'>
             The partner of your
@@ -67,7 +69,7 @@ function footer() {
             <div className='md:w-[50%]'>
               <div className='flex md:justify-around justify-evenly'>
                 <a href='#'>
-                  <RiInstagramFill style={{ color: '#b720b0' }} />
+                  <RiInstagramFill style={{ color: '#0c0c69' }} />
                 </a>
                 <a href='#'>
                   <FaLinkedinIn style={{ color: '#0c0c69' }} />
